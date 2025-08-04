@@ -1,0 +1,20 @@
+{
+  "name": "sum-fn",
+  "version": "1.0.0",
+  "description": "A simple sum function",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "sum",
+    "add",
+    "typescript"
+  ],
+  "author": "ani",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
